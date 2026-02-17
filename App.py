@@ -1,4 +1,4 @@
-import streamlit as st
+nda-reviewer.pyimport streamlit as st
 
 st.title("NDA Reviewer Ninja")
 
